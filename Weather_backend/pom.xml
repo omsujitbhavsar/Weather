@@ -14,7 +14,7 @@
     </parent>
 
     <groupId>com.om</groupId>
-    <artifactId>weather</artifactId>
+    <artifactId>weather_backend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>weather</name>
     <description>Weather REST API</description>
